@@ -1,4 +1,4 @@
-# Decision-Tree-Comparison-GUI
+### Decision-Tree-Comparison-GUI
 This Python script creates a graphical user interface (GUI) that allows the user to compare the performance of different decision tree algorithms on the Iris dataset.
  The user can select a model from a drop-down menu and train it using the "Train" button. The accuracy of the trained model is displayed in the GUI. The user can also view a visualization of the trained decision tree by clicking on the "Show Graph" button.
 # Usage 
